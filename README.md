@@ -32,23 +32,26 @@ Civilization should therefore be evaluated by how it contributes to:
 
 ## Repository Structure
 
-1. **Existence-Oriented Civilization**  
-   Defines the overall direction beyond growth-centered models.
+1. Existence-Oriented Civilization  
+Defines the overall civilizational orientation beyond growth-centered models.
 
-2. **Better Existence Framework**  
-   Defines a multi-dimensional, non-reductive model of existence quality.
+2. Better Existence Framework  
+Defines a multi-dimensional, non-reductive model of existence quality.
 
-3. **Civilizational Feedback Systems**  
-   Defines how civilization maintains alignment with reality through feedback and correction.
+3. Civilizational Feedback Systems  
+Defines the feedback architecture required to maintain alignment between internal models and external reality.
 
-4. **Lineage of Existence**  
-   Places civilization within a longer evolutionary process across biological, human, and technological forms.
+4. Lineage of Existence  
+Situates civilization within a longer evolutionary process across biological, human, and technological forms.
 
-5. **Further Notes on Existence-Oriented Civilization**  
-   Extends the framework with dynamic processes such as oscillation, convergence, and expansion.
+5. Further Notes on Existence-Oriented Civilization  
+Extends the framework with dynamic processes such as oscillation, convergence, and expansion.
 
-6. **Civilization-Level Existence State**  
-   Introduces a system-level model for evaluating civilizational existence as a multi-dimensional state.
+6. Civilization-Level Existence State  
+Introduces a system-level model for evaluating civilizational existence as a multi-dimensional state.
+
+7. Generative Dynamics of Existence State  
+Explains the internal generative dynamics through which existence states are produced, sustained, and degraded over time.
 
 ---
 
