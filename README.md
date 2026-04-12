@@ -12,6 +12,8 @@ Civilization is viewed as a process through which existence stabilizes, expands 
 
 All other goals—economic, technological, political—are treated as instrumental rather than primary.
 
+**Existence state is not merely a target to optimize, but a condition that must be continuously generated and sustained through internal dynamics.**
+
 ---
 
 ## Core Idea
