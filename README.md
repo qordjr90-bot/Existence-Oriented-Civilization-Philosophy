@@ -25,6 +25,7 @@ All other systems are instrumental.
 6.Civilization-Level Existence State
 7.Generative Dynamics of Existence State
 8.Operational Principles of Existence-Oriented Civilization
+9. Spatial Allocation and Temporal Tension
 
     Principle
 
